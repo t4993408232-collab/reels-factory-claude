@@ -1,0 +1,8 @@
+{
+  "ig_user_id": "ВАШ_INSTAGRAM_BUSINESS_ID (17841…)",
+  "token_file": "~/.reels-factory/ig_token",
+  "dir": "~/.reels-factory",
+  "timezone": "Europe/Moscow",
+  "caption_max": 1600,
+  "trial_by_default": true
+}

@@ -1,0 +1,10 @@
+*token*
+!config.example.json
+queue.json
+stats/
+logs/
+*.mp4
+*.wav
+*.m4a
+.DS_Store
+__pycache__/
